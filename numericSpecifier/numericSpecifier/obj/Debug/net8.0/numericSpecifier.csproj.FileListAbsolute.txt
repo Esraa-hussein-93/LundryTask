@@ -1,0 +1,14 @@
+C:\Users\Asmaa\Desktop\Esraa\backend_511\tasks\numericSpecifier\numericSpecifier\bin\Debug\net8.0\numericSpecifier.exe
+C:\Users\Asmaa\Desktop\Esraa\backend_511\tasks\numericSpecifier\numericSpecifier\bin\Debug\net8.0\numericSpecifier.deps.json
+C:\Users\Asmaa\Desktop\Esraa\backend_511\tasks\numericSpecifier\numericSpecifier\bin\Debug\net8.0\numericSpecifier.runtimeconfig.json
+C:\Users\Asmaa\Desktop\Esraa\backend_511\tasks\numericSpecifier\numericSpecifier\bin\Debug\net8.0\numericSpecifier.dll
+C:\Users\Asmaa\Desktop\Esraa\backend_511\tasks\numericSpecifier\numericSpecifier\bin\Debug\net8.0\numericSpecifier.pdb
+C:\Users\Asmaa\Desktop\Esraa\backend_511\tasks\numericSpecifier\numericSpecifier\obj\Debug\net8.0\numericSpecifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asmaa\Desktop\Esraa\backend_511\tasks\numericSpecifier\numericSpecifier\obj\Debug\net8.0\numericSpecifier.AssemblyInfoInputs.cache
+C:\Users\Asmaa\Desktop\Esraa\backend_511\tasks\numericSpecifier\numericSpecifier\obj\Debug\net8.0\numericSpecifier.AssemblyInfo.cs
+C:\Users\Asmaa\Desktop\Esraa\backend_511\tasks\numericSpecifier\numericSpecifier\obj\Debug\net8.0\numericSpecifier.csproj.CoreCompileInputs.cache
+C:\Users\Asmaa\Desktop\Esraa\backend_511\tasks\numericSpecifier\numericSpecifier\obj\Debug\net8.0\numericSpecifier.dll
+C:\Users\Asmaa\Desktop\Esraa\backend_511\tasks\numericSpecifier\numericSpecifier\obj\Debug\net8.0\refint\numericSpecifier.dll
+C:\Users\Asmaa\Desktop\Esraa\backend_511\tasks\numericSpecifier\numericSpecifier\obj\Debug\net8.0\numericSpecifier.pdb
+C:\Users\Asmaa\Desktop\Esraa\backend_511\tasks\numericSpecifier\numericSpecifier\obj\Debug\net8.0\numericSpecifier.genruntimeconfig.cache
+C:\Users\Asmaa\Desktop\Esraa\backend_511\tasks\numericSpecifier\numericSpecifier\obj\Debug\net8.0\ref\numericSpecifier.dll

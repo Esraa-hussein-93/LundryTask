@@ -1,0 +1,14 @@
+C:\Users\Asmaa\Desktop\Esraa\backend_511\tasks\task1\task1\bin\Debug\net8.0\lundry.exe
+C:\Users\Asmaa\Desktop\Esraa\backend_511\tasks\task1\task1\bin\Debug\net8.0\lundry.deps.json
+C:\Users\Asmaa\Desktop\Esraa\backend_511\tasks\task1\task1\bin\Debug\net8.0\lundry.runtimeconfig.json
+C:\Users\Asmaa\Desktop\Esraa\backend_511\tasks\task1\task1\bin\Debug\net8.0\lundry.dll
+C:\Users\Asmaa\Desktop\Esraa\backend_511\tasks\task1\task1\bin\Debug\net8.0\lundry.pdb
+C:\Users\Asmaa\Desktop\Esraa\backend_511\tasks\task1\task1\obj\Debug\net8.0\lundry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asmaa\Desktop\Esraa\backend_511\tasks\task1\task1\obj\Debug\net8.0\lundry.AssemblyInfoInputs.cache
+C:\Users\Asmaa\Desktop\Esraa\backend_511\tasks\task1\task1\obj\Debug\net8.0\lundry.AssemblyInfo.cs
+C:\Users\Asmaa\Desktop\Esraa\backend_511\tasks\task1\task1\obj\Debug\net8.0\lundry.csproj.CoreCompileInputs.cache
+C:\Users\Asmaa\Desktop\Esraa\backend_511\tasks\task1\task1\obj\Debug\net8.0\lundry.dll
+C:\Users\Asmaa\Desktop\Esraa\backend_511\tasks\task1\task1\obj\Debug\net8.0\refint\lundry.dll
+C:\Users\Asmaa\Desktop\Esraa\backend_511\tasks\task1\task1\obj\Debug\net8.0\lundry.pdb
+C:\Users\Asmaa\Desktop\Esraa\backend_511\tasks\task1\task1\obj\Debug\net8.0\lundry.genruntimeconfig.cache
+C:\Users\Asmaa\Desktop\Esraa\backend_511\tasks\task1\task1\obj\Debug\net8.0\ref\lundry.dll
